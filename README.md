@@ -68,7 +68,6 @@ Live demos: [CISO executive dashboard](https://bizidwassim-design.github.io/ciso
 
 ## > contact
 
-[LinkedIn](https://www.linkedin.com/in/wassim-bizid/) · [Book a 30-minute call](https://calendly.com/letstalk-today/30min) ·
-[brainfortsecurity.com](https://www.brainfortsecurity.com/)
+[LinkedIn](https://www.linkedin.com/in/wassim-bizid/) · [Book a 30-minute call](https://calendly.com/letstalk-today/30min)
 
 <sub>Français : responsable cybersécurité et GRC. Portfolio, projets open source GRC/SOC et certifications ci-dessus.</sub>
