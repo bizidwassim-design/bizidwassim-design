@@ -1,5 +1,5 @@
 <a href="https://bizidwassim-design.github.io/">
-  <img src="assets/banner.svg" alt="Wassim Bizid — Cybersecurity and GRC leader. Security that is measurable, explainable and usable. CISSP, CISM, ISO/IEC 42001, Executive MBA." width="100%">
+  <img src="assets/banner.svg" alt="Wassim Bizid — Cybersecurity and GRC leader. Security that is measurable, explainable and usable. CISSP, CISM, ITIL, Executive Mini-MBA." width="100%">
 </a>
 
 I lead cybersecurity and GRC programmes that turn security telemetry into accountable risk decisions: governance and

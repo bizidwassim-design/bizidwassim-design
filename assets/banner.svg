@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t d">
   <title id="t">Wassim Bizid — Cybersecurity &amp; GRC leader</title>
-  <desc id="d">Governance, identity and Zero Trust, security operations and AI governance. CISSP, CISM, ISO/IEC 42001, Executive MBA.</desc>
+  <desc id="d">Governance, identity and Zero Trust, security operations and AI governance. CISSP, CISM, ITIL, Executive Mini-MBA.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FFFDF7"/>
@@ -36,12 +36,12 @@
       <text x="103" y="246" text-anchor="middle">CISSP</text>
       <rect x="152" y="226" width="72" height="30" rx="15" fill="#FFFFFF" stroke="#BFD6EA"/>
       <text x="188" y="246" text-anchor="middle">CISM</text>
-      <rect x="234" y="226" width="130" height="30" rx="15" fill="#FFFFFF" stroke="#BFD6EA"/>
-      <text x="299" y="246" text-anchor="middle">ISO/IEC 42001</text>
-      <rect x="374" y="226" width="130" height="30" rx="15" fill="#FFFFFF" stroke="#BFD6EA"/>
-      <text x="439" y="246" text-anchor="middle">Executive MBA</text>
-      <rect x="514" y="226" width="150" height="30" rx="15" fill="#2F80ED"/>
-      <text x="589" y="246" text-anchor="middle" fill="#FFFFFF">Dubai · Montréal</text>
+      <rect x="234" y="226" width="64" height="30" rx="15" fill="#FFFFFF" stroke="#BFD6EA"/>
+      <text x="266" y="246" text-anchor="middle">ITIL</text>
+      <rect x="308" y="226" width="170" height="30" rx="15" fill="#FFFFFF" stroke="#BFD6EA"/>
+      <text x="393" y="246" text-anchor="middle">Executive Mini-MBA</text>
+      <rect x="488" y="226" width="150" height="30" rx="15" fill="#2F80ED"/>
+      <text x="563" y="246" text-anchor="middle" fill="#FFFFFF">Dubai · Montréal</text>
     </g>
   </g>
 </svg>
