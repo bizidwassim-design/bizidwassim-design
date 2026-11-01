@@ -11,13 +11,13 @@
 [![Book a call](https://img.shields.io/badge/book_a_30--min_call-42C7A5?style=for-the-badge&logo=googlecalendar&logoColor=fff)](https://calendly.com/letstalk-today/30min)
 [![Public repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fbizidwassim-design&query=%24.public_repos&label=public%20repos&style=for-the-badge&logo=github&logoColor=fff&color=24445D&cacheSeconds=3600)](https://github.com/bizidwassim-design?tab=repositories)
 
-**🟢 Live demos**
+### 🟢 Live demos
 
-[![UAE IA Compliance Matrix live demo](https://img.shields.io/badge/UAE_IA_Compliance_Matrix-demo-006b3f?style=flat-square&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/uae-ia-compliance-matrix/)
-[![GRC Control Crosswalk live demo](https://img.shields.io/badge/GRC_Control_Crosswalk-demo-1F3864?style=flat-square&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/grc-control-crosswalk/)
-[![CISO Executive Dashboard live demo](https://img.shields.io/badge/CISO_Executive_Dashboard-demo-2F80ED?style=flat-square&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/ciso-executive-dashboard/)
-[![Vendor Risk (TPRM) live demo](https://img.shields.io/badge/Vendor_Risk_%28TPRM%29-demo-2F5597?style=flat-square&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/vendor-risk-assessment-template/)
-[![SOC Maturity Assessment live demo](https://img.shields.io/badge/SOC_Maturity_Assessment-demo-8B7CF6?style=flat-square&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/soc-maturity-assessment/)
+[![UAE IA Compliance Matrix live demo](https://img.shields.io/badge/UAE_IA_Compliance_Matrix-live_demo-006b3f?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/uae-ia-compliance-matrix/)
+[![GRC Control Crosswalk live demo](https://img.shields.io/badge/GRC_Control_Crosswalk-live_demo-1F3864?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/grc-control-crosswalk/)
+[![CISO Executive Dashboard live demo](https://img.shields.io/badge/CISO_Executive_Dashboard-live_demo-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/ciso-executive-dashboard/)
+[![Vendor Risk (TPRM) live demo](https://img.shields.io/badge/Vendor_Risk_%28TPRM%29-live_demo-2F5597?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/vendor-risk-assessment-template/)
+[![SOC Maturity Assessment live demo](https://img.shields.io/badge/SOC_Maturity_Assessment-live_demo-8B7CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/soc-maturity-assessment/)
 
 </div>
 
