@@ -202,7 +202,7 @@ Planned next, from a post-penetration-test backlog: reconnaissance and group enu
 <div align="center">
 
 <img width="48%" src="https://streak-stats.demolab.com/?user=bizidwassim-design&theme=dark&background=0d1117&border=21262d&stroke=21262d&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=484f58" alt="Contribution streak" />
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bizidwassim-design&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=f0f6fc&text_color=8b949e&langs_count=8" alt="Most used languages" />
+<img width="38%" src="assets/languages.svg" alt="Most used languages across my public repositories" />
 
 </div>
 
