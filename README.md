@@ -73,7 +73,7 @@ Full index: [cybersecurity-portfolio](https://github.com/bizidwassim-design/cybe
 |:--------|:-------------|
 | [**Application Risk Assessment Template**](https://github.com/bizidwassim-design/application-risk-assessment-template) | Excel workbook with a 5×5 likelihood-and-impact method: inventory, risk register with automatic rating, dashboard and heat map, aligned with ISO 27001, NIST CSF 2.0 and ISO 42001. |
 | [**Risk Treatment Plan Generator**](https://github.com/bizidwassim-design/risk-treatment-plan-generator) | Python CLI that turns a risk register into a prioritised, wave-based treatment plan with quick wins, owner workload and Markdown, CSV, Excel and Mermaid outputs. |
-| [**Vendor Risk Assessment Template**](https://github.com/bizidwassim-design/vendor-risk-assessment-template) | Third-party risk workbook: vendor tiering, a 60-question weighted questionnaire, contract-clause checklist and dashboard. |
+| [**Vendor Risk Assessment (TPRM)**](https://github.com/bizidwassim-design/vendor-risk-assessment-template) 🟢 live | Third-party risk management as a workbook and as a web app: vendor tiering by inherent risk, a 60-question weighted questionnaire, residual rating, contract-clause checklist per tier and a dashboard. |
 | [**AI Risk Assessment Template**](https://github.com/bizidwassim-design/ai-risk-assessment-template) | Assess AI system risks (bias, transparency, drift, privacy, security, safety) with ISO/IEC 42001 mapping and an EU AI Act quick classifier. |
 | [**Threat Modeling Toolkit**](https://github.com/bizidwassim-design/threat-modeling-toolkit) | STRIDE, PASTA and LINDDUN templates, a worked example, and a generator that turns a YAML data-flow model into a STRIDE-per-element threat table mapped to OWASP ASVS and ISO 27001. |
 | [**Cybersecurity RACI Library**](https://github.com/bizidwassim-design/cybersecurity-raci-library) | Twelve validated RACI matrices for core security processes with clause references, exported to Markdown and Excel. |
@@ -100,7 +100,7 @@ Full index: [cybersecurity-portfolio](https://github.com/bizidwassim-design/cybe
 |:--------|:-------------|
 | [**Public Scripts**](https://github.com/bizidwassim-design/public-scripts) | 121 sanitised PowerShell, KQL and Python scripts for identity and security operations, documented and secret-scanned in CI. The library is listed below. |
 
-> 🟢 live: [UAE IA matrix](https://bizidwassim-design.github.io/uae-ia-compliance-matrix/) · [CISO dashboard](https://bizidwassim-design.github.io/ciso-executive-dashboard/) · [SOC maturity](https://bizidwassim-design.github.io/soc-maturity-assessment/)
+> 🟢 live: [Vendor risk (TPRM)](https://bizidwassim-design.github.io/vendor-risk-assessment-template/) · [UAE IA matrix](https://bizidwassim-design.github.io/uae-ia-compliance-matrix/) · [CISO dashboard](https://bizidwassim-design.github.io/ciso-executive-dashboard/) · [SOC maturity](https://bizidwassim-design.github.io/soc-maturity-assessment/)
 
 ---
 
