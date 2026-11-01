@@ -6,7 +6,6 @@
 
 [![Portfolio](https://img.shields.io/badge/portfolio-open-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/wassim-bizid-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-wassim--bizid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wassim-bizid/)
-[![Credly](https://img.shields.io/badge/Credly-verified%20badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/wassim-bizid.13208c9b/badges)
 [![Book a call](https://img.shields.io/badge/book-30%20min%20call-42C7A5?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://calendly.com/letstalk-today/30min)
 
 ![CISSP](https://img.shields.io/badge/CISSP-24445D?style=flat-square)
