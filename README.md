@@ -25,6 +25,8 @@
 
 <sub>**How to read the numbers:** 23 public repositories = 19 open-source GRC and SOC projects + the portfolio site, this profile, the project index and a redirect. The 23 case studies on the portfolio are anonymised professional work, separate from the repositories. The canonical portfolio link is [bizidwassim-design.github.io/wassim-bizid-portfolio](https://bizidwassim-design.github.io/wassim-bizid-portfolio/).</sub>
 
+<sub>**AI assistance:** built with Claude Code as a coding and writing assistant (a co-author on some commits). Editor and reviewer: Wassim Bizid, who set the scope, the frameworks and the GRC approach and decided what was published; automated tests in CI check the published outputs.</sub>
+
 ### `> whoami`
 
 **GRC Manager and cybersecurity leader.** I run security programmes that turn telemetry into accountable risk decisions: governance and audit readiness, identity and Zero Trust in Microsoft Entra ID, endpoint hardening, security operations, and AI governance under ISO/IEC 42001. Fifteen years across banking, telecoms, consulting, pharmaceuticals, manufacturing and real estate, most of it making security measurable for executives and practical for operators. Most recently I led a team of eight, a USD 286k security budget and around fifteen vendors, and reported cyber risk to the board.
