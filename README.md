@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://bizidwassim-design.github.io/wassim-bizid-portfolio/">
-  <img src="assets/banner.svg" alt="Wassim Bizid, cybersecurity and GRC leader. Security that is measurable, explainable and usable. CISSP, CISM, ITIL, Executive Mini-MBA." width="100%">
+  <img src="assets/header.gif" alt="Terminal-style header: Wassim Bizid, Security with purpose. Leadership, governance, automation." width="100%">
 </a>
 
 [![Portfolio](https://img.shields.io/badge/portfolio-open-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/wassim-bizid-portfolio/)
