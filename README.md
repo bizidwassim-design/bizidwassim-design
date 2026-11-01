@@ -60,7 +60,7 @@ Full index: [cybersecurity-portfolio](https://github.com/bizidwassim-design/cybe
 
 | Project | What it does |
 |:--------|:-------------|
-| [**UAE IA Compliance Matrix**](https://github.com/bizidwassim-design/wassim-bizid-portfolio/tree/main/uae-ia-matrix) 🟢 live | Compliance matrix for the UAE Information Assurance Standard: 15 control families with status, owner, evidence and gaps, a compliance score, and mappings to ISO/IEC 27001:2022 and NIST CSF 2.0. Import your own control list from CSV. One static page on GitHub Pages. |
+| [**UAE IA Compliance Matrix**](https://github.com/bizidwassim-design/uae-ia-compliance-matrix) 🟢 live | Compliance matrix for the UAE Information Assurance Standard: 15 control families with status, owner, evidence and gaps, a compliance score, and mappings to ISO/IEC 27001:2022 and NIST CSF 2.0. Import your own control list from CSV. One static page on GitHub Pages. |
 | [**ISO 27001 ISMS Lab**](https://github.com/bizidwassim-design/iso27001-isms-lab) | A complete, fictional ISO/IEC 27001:2022 ISMS cycle for a UAE logistics company: context, risk assessment, Statement of Applicability, internal audit and management review, with a validator proving all 93 Annex A controls are covered. A training lab, not a certification claim. |
 | [**ISO 27001 and ISO 42001 Toolkit**](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit) | Checklists, six policy templates, a Statement of Applicability covering both Annex A sets, risk treatment plan, RACI, AI system impact assessment, audit evidence list and a four-phase getting-started guide. |
 | [**GRC Control Crosswalk**](https://github.com/bizidwassim-design/grc-control-crosswalk) 🟢 live | The 93 ISO 27001:2022 Annex A controls mapped to NIST CSF 2.0, CIS Controls v8, ISO 42001 and SOC 2, with UAE IAR, DESC ISR, UAE PDPL, PCI DSS v4.0.1, NIST SP 800-53 and ISO 22301 overlays; an interactive explorer plus Excel, CSV and YAML. |
@@ -100,7 +100,7 @@ Full index: [cybersecurity-portfolio](https://github.com/bizidwassim-design/cybe
 |:--------|:-------------|
 | [**Public Scripts**](https://github.com/bizidwassim-design/public-scripts) | 121 sanitised PowerShell, KQL and Python scripts for identity and security operations, documented and secret-scanned in CI. The library is listed below. |
 
-> 🟢 live: [Control crosswalk](https://bizidwassim-design.github.io/grc-control-crosswalk/) · [Vendor risk (TPRM)](https://bizidwassim-design.github.io/vendor-risk-assessment-template/) · [UAE IA matrix](https://bizidwassim-design.github.io/wassim-bizid-portfolio/uae-ia-matrix/) · [CISO dashboard](https://bizidwassim-design.github.io/ciso-executive-dashboard/) · [SOC maturity](https://bizidwassim-design.github.io/soc-maturity-assessment/)
+> 🟢 live: [Control crosswalk](https://bizidwassim-design.github.io/grc-control-crosswalk/) · [Vendor risk (TPRM)](https://bizidwassim-design.github.io/vendor-risk-assessment-template/) · [UAE IA matrix](https://bizidwassim-design.github.io/uae-ia-compliance-matrix/) · [CISO dashboard](https://bizidwassim-design.github.io/ciso-executive-dashboard/) · [SOC maturity](https://bizidwassim-design.github.io/soc-maturity-assessment/)
 
 ---
 
