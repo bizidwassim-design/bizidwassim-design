@@ -17,7 +17,7 @@
 
 ### `> whoami`
 
-**Cybersecurity and GRC leader.** I run security programmes that turn telemetry into accountable risk decisions: governance and audit readiness, identity and Zero Trust in Microsoft Entra ID, endpoint hardening, security operations, and AI governance under ISO/IEC 42001. Fifteen years across banking, telecoms, consulting, pharmaceuticals, manufacturing and real estate, most of it making security measurable for executives and practical for operators.
+**GRC Manager and cybersecurity leader.** I run security programmes that turn telemetry into accountable risk decisions: governance and audit readiness, identity and Zero Trust in Microsoft Entra ID, endpoint hardening, security operations, and AI governance under ISO/IEC 42001. Fifteen years across banking, telecoms, consulting, pharmaceuticals, manufacturing and real estate, most of it making security measurable for executives and practical for operators. Most recently I led a team of eight, a USD 286k security budget and around fifteen vendors, and reported cyber risk to the board.
 
 ```
 Education    Executive Mini-MBA, McGill Executive Institute
@@ -61,6 +61,7 @@ Full index: [cybersecurity-portfolio](https://github.com/bizidwassim-design/cybe
 | Project | What it does |
 |:--------|:-------------|
 | [**UAE IA Compliance Matrix**](https://github.com/bizidwassim-design/uae-ia-compliance-matrix) 🟢 live | Compliance matrix for the UAE Information Assurance Standard: 15 control families with status, owner, evidence and gaps, a compliance score, and mappings to ISO/IEC 27001:2022 and NIST CSF 2.0. Import your own control list from CSV. One static page on GitHub Pages. |
+| [**ISO 27001 ISMS Lab**](https://github.com/bizidwassim-design/iso27001-isms-lab) | A complete, fictional ISO/IEC 27001:2022 ISMS cycle for a UAE logistics company: context, risk assessment, Statement of Applicability, internal audit and management review, with a validator proving all 93 Annex A controls are covered. A training lab, not a certification claim. |
 | [**ISO 27001 and ISO 42001 Toolkit**](https://github.com/bizidwassim-design/iso27001-iso42001-toolkit) | Checklists, six policy templates, a Statement of Applicability covering both Annex A sets, risk treatment plan, RACI, AI system impact assessment, audit evidence list and a four-phase getting-started guide. |
 | [**GRC Control Crosswalk**](https://github.com/bizidwassim-design/grc-control-crosswalk) | The 93 ISO 27001:2022 Annex A controls mapped to NIST CSF 2.0, CIS Controls v8, ISO 42001 and SOC 2 TSC; Excel with per-framework views, plus CSV and YAML for automation. |
 | [**Control Evidence Collector**](https://github.com/bizidwassim-design/control-evidence-collector) | Read-only collectors for Windows, Linux, Microsoft 365 and cloud that produce hashed, timestamped JSON evidence for ISO 27001 and CIS v8 controls, with a verification manifest. |
@@ -81,6 +82,7 @@ Full index: [cybersecurity-portfolio](https://github.com/bizidwassim-design/cybe
 
 | Project | What it does |
 |:--------|:-------------|
+| [**Executive Risk Pack**](https://github.com/bizidwassim-design/executive-risk-pack) | Quarterly board cyber-risk pack generated from CSV and YAML: one-page summary, NIST CSF 2.0 posture against target, top-ten risks with heat map, key risk indicators, regulatory calendar and the decisions the board is asked to take. |
 | [**CISO Executive Dashboard**](https://github.com/bizidwassim-design/ciso-executive-dashboard) 🟢 live | Single-page board view: KPIs, NIST CSF 2.0 maturity radar, risk and incident trends, vulnerability SLA, compliance progress, top risks, roadmap and budget. Edit one data file. |
 | [**Security Metrics Library**](https://github.com/bizidwassim-design/security-metrics-library) | Forty-plus metrics with definitions, formulas, sources and framework references; generated catalogue, board pack, dashboard wireframes and a trend-report generator. |
 | [**SOC Maturity Assessment**](https://github.com/bizidwassim-design/soc-maturity-assessment) 🟢 live | Fifty questions across six SOC domains on five maturity levels, radar chart, ranked gap list and a next step for every gap. |
@@ -146,52 +148,52 @@ Planned next, from a post-penetration-test backlog: reconnaissance and group enu
 
 **Languages and scripting**
 
-![PowerShell](https://img.shields.io/badge/PowerShell-2d2d6e?style=flat-square&logo=powershell&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Rego](https://img.shields.io/badge/Rego_(OPA)-7d9199?style=flat-square&logo=openpolicyagent&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-1a1a1a?style=flat-square)
+[![PowerShell](https://img.shields.io/badge/PowerShell-2d2d6e?style=flat-square&logo=powershell&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&language=powershell)
+[![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=kql)
+[![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&language=python)
+[![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&language=shell)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)](https://github.com/bizidwassim-design?tab=repositories&language=javascript)
+[![Rego](https://img.shields.io/badge/Rego_(OPA)](https://github.com/bizidwassim-design?tab=repositories&language=open+policy+agent)-7d9199?style=flat-square&logo=openpolicyagent&logoColor=white)
+[![Sigma](https://img.shields.io/badge/Sigma-1a1a1a?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=sigma)
 
 **Security stack**
 
-![Defender XDR](https://img.shields.io/badge/Defender_XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Purview](https://img.shields.io/badge/Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Elastic](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white)
-![TheHive](https://img.shields.io/badge/TheHive-f5a623?style=flat-square)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-2e7d32?style=flat-square)
-![Nmap](https://img.shields.io/badge/Nmap-1a1a1a?style=flat-square)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Meraki](https://img.shields.io/badge/Cisco_Meraki-67b346?style=flat-square&logo=cisco&logoColor=white)
-![Armis](https://img.shields.io/badge/Armis_OT-5b2d8e?style=flat-square)
+[![Defender XDR](https://img.shields.io/badge/Defender_XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=defender)
+[![Sentinel](https://img.shields.io/badge/Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=kql)
+[![Purview](https://img.shields.io/badge/Purview-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=iso27001)
+[![Entra ID](https://img.shields.io/badge/Entra_ID-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=entra)
+[![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=endpoint)
+[![Elastic](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=elastic&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=detection)
+[![TheHive](https://img.shields.io/badge/TheHive-f5a623?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=incident)
+[![OpenVAS](https://img.shields.io/badge/OpenVAS-2e7d32?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=vulnerability)
+[![Nmap](https://img.shields.io/badge/Nmap-1a1a1a?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=network)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=network)
+[![Meraki](https://img.shields.io/badge/Cisco_Meraki-67b346?style=flat-square&logo=cisco&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=meraki)
+[![Armis](https://img.shields.io/badge/Armis_OT-5b2d8e?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=ot)
 
 **Cloud and infrastructure**
 
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0067B8?style=flat-square&logo=microsoft&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux_(RHEL)-EE0000?style=flat-square&logo=redhat&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude_Code_·_MCP-24445D?style=flat-square)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=azure)
+[![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=microsoft-365)
+[![Active Directory](https://img.shields.io/badge/Active_Directory-0067B8?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=active-directory)
+[![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=microsoft&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=powershell)
+[![Linux](https://img.shields.io/badge/Linux_(RHEL)](https://github.com/bizidwassim-design?tab=repositories&language=shell)-EE0000?style=flat-square&logo=redhat&logoColor=white)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories)
+[![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white)](https://github.com/bizidwassim-design?tab=repositories&q=automation)
+[![Claude Code](https://img.shields.io/badge/Claude_Code_·_MCP-24445D?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=mcp)
 
 **Frameworks and standards**
 
-![ISO 27001](https://img.shields.io/badge/ISO_27001:2022-002244?style=flat-square)
-![ISO 42001](https://img.shields.io/badge/ISO_42001-002244?style=flat-square)
-![NIST CSF](https://img.shields.io/badge/NIST_CSF_2.0-002244?style=flat-square)
-![CIS Controls](https://img.shields.io/badge/CIS_Controls_v8-002244?style=flat-square)
-![SOC 2](https://img.shields.io/badge/SOC_2-002244?style=flat-square)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-c00?style=flat-square)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-002244?style=flat-square)
-![UAE IA](https://img.shields.io/badge/UAE_IA_Standard-006b3f?style=flat-square)
-![UAE PDPL](https://img.shields.io/badge/UAE_PDPL-006b3f?style=flat-square)
-![Loi 25](https://img.shields.io/badge/Québec_Loi_25-006b3f?style=flat-square)
+[![ISO 27001](https://img.shields.io/badge/ISO_27001:2022-002244?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=iso27001)
+[![ISO 42001](https://img.shields.io/badge/ISO_42001-002244?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=iso42001)
+[![NIST CSF](https://img.shields.io/badge/NIST_CSF_2.0-002244?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=nist-csf)
+[![CIS Controls](https://img.shields.io/badge/CIS_Controls_v8-002244?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=cis-controls)
+[![SOC 2](https://img.shields.io/badge/SOC_2-002244?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=soc2)
+[![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-c00?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=mitre)
+[![Zero Trust](https://img.shields.io/badge/Zero_Trust-002244?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=zero-trust)
+[![UAE IA](https://img.shields.io/badge/UAE_IA_Standard-006b3f?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=uae)
+[![UAE PDPL](https://img.shields.io/badge/UAE_PDPL-006b3f?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=uae)
+[![Loi 25](https://img.shields.io/badge/Québec_Loi_25-006b3f?style=flat-square)](https://github.com/bizidwassim-design?tab=repositories&q=gdpr)
 
 </div>
 
@@ -201,8 +203,8 @@ Planned next, from a post-penetration-test backlog: reconnaissance and group enu
 
 <div align="center">
 
-<img width="48%" src="https://streak-stats.demolab.com/?user=bizidwassim-design&theme=dark&background=0d1117&border=21262d&stroke=21262d&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=484f58" alt="Contribution streak" />
-<img width="38%" src="assets/languages.svg" alt="Most used languages across my public repositories" />
+<a href="https://github.com/bizidwassim-design"><img width="48%" src="https://streak-stats.demolab.com/?user=bizidwassim-design&theme=dark&background=0d1117&border=21262d&stroke=21262d&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=8b949e&currStreakNum=f0f6fc&sideNums=f0f6fc&dates=484f58" alt="Contribution streak" /></a>
+<a href="https://github.com/bizidwassim-design?tab=repositories"><img width="38%" src="assets/languages.svg" alt="Most used languages across my public repositories" /></a>
 
 </div>
 
