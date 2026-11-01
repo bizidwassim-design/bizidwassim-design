@@ -38,7 +38,7 @@ Based between Dubai and Montréal.
   </a>
 </p>
 
-22 anonymised case studies with search and topic filters, a `Ctrl K` command palette, a built-in terminal
+23 anonymised case studies with search and topic filters, a `Ctrl K` command palette, a built-in terminal
 (press the backtick key), live GitHub stats, light and dark themes. Source:
 [wassim-bizid-portfolio](https://github.com/bizidwassim-design/wassim-bizid-portfolio).
 
