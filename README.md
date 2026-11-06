@@ -13,6 +13,7 @@
 
 ### 🟢 Live demos
 
+[![ISO Compass live demo](https://img.shields.io/badge/ISO_Compass_27001_42001_27090-live_demo-7051C2?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/wassim-bizid-portfolio/iso-ai-guide/)
 [![UAE IA Compliance Matrix live demo](https://img.shields.io/badge/UAE_IA_Compliance_Matrix-live_demo-006b3f?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/uae-ia-compliance-matrix/)
 [![GRC Control Crosswalk live demo](https://img.shields.io/badge/GRC_Control_Crosswalk-live_demo-1F3864?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/grc-control-crosswalk/)
 [![CISO Executive Dashboard live demo](https://img.shields.io/badge/CISO_Executive_Dashboard-live_demo-2F80ED?style=for-the-badge&logo=githubpages&logoColor=white)](https://bizidwassim-design.github.io/ciso-executive-dashboard/)
@@ -23,7 +24,7 @@
 
 ---
 
-<sub>**How to read the numbers:** 23 public repositories = 19 open-source GRC and SOC projects + the portfolio site, this profile, the project index and a redirect. The 23 case studies on the portfolio are anonymised professional work, separate from the repositories. The canonical portfolio link is [bizidwassim-design.github.io/wassim-bizid-portfolio](https://bizidwassim-design.github.io/wassim-bizid-portfolio/).</sub>
+<sub>**How to read the numbers:** 20 open-source GRC and SOC projects are presented, including ISO Compass hosted inside the portfolio repository. Project counts and repository counts are different. The 23 case studies on the portfolio are anonymised professional work, separate from the repositories. The canonical portfolio link is [bizidwassim-design.github.io/wassim-bizid-portfolio](https://bizidwassim-design.github.io/wassim-bizid-portfolio/).</sub>
 
 <sub>**AI assistance:** built with Claude Code as a coding and writing assistant (a co-author on some commits). Editor and reviewer: Wassim Bizid, who set the scope, the frameworks and the GRC approach and decided what was published; automated tests in CI check the published outputs.</sub>
 
@@ -71,13 +72,14 @@ Start here: six projects that show the GRC work end to end, from the regulation 
 |:--------|:---------------|
 | [**GRC Control Crosswalk**](https://github.com/bizidwassim-design/grc-control-crosswalk) · [demo](https://bizidwassim-design.github.io/grc-control-crosswalk/) | ISO 27001:2022 mapped to NIST CSF 2.0, CIS v8, ISO 42001 and SOC 2, with UAE IAR, DESC ISR, UAE PDPL, PCI DSS, NIST 800-53 and ISO 22301 overlays. Sources dated, every partial match explained, limitations and review status documented, consistency tests in CI. |
 | [**UAE IA Compliance Matrix**](https://github.com/bizidwassim-design/uae-ia-compliance-matrix) · [demo](https://bizidwassim-design.github.io/uae-ia-compliance-matrix/) | The UAE IA Regulation v1.1 as a working matrix: 15 families and 66 sub-families, status, evidence, score and gaps, with mappings derived from the crosswalk and a dated worked example. |
+| [**ISO Compass — 27001 × 42001 × 27090**](https://github.com/bizidwassim-design/wassim-bizid-portfolio/tree/main/iso-ai-guide) 🟢 live · [demo](https://bizidwassim-design.github.io/wassim-bizid-portfolio/iso-ai-guide/) | Independent comparison of information security, AI governance and AI cybersecurity, with three applied examples, a starting-point guide and an exportable twelve-action plan. Not an official clause crosswalk or a certification assessment. |
 | [**ISO 27001 ISMS Lab**](https://github.com/bizidwassim-design/iso27001-isms-lab) | A complete fictional ISMS cycle (context, risk assessment, SoA, internal audit, management review) whose registers cross-reference each other and are checked by a validator. |
 | [**Vendor Risk Assessment (TPRM)**](https://github.com/bizidwassim-design/vendor-risk-assessment-template) · [demo](https://bizidwassim-design.github.io/vendor-risk-assessment-template/) | Third-party risk from tiering to residual rating, contract clauses and dashboard, as a web app and an Excel workbook generated from one model. |
 | [**Control Evidence Collector**](https://github.com/bizidwassim-design/control-evidence-collector) | Read-only collectors that produce hashed, timestamped evidence, with cross-language hash verification and tamper detection tested in CI. |
 | [**Executive Risk Pack**](https://github.com/bizidwassim-design/executive-risk-pack) | A quarterly board cyber-risk pack generated from data: posture against target, top risks, KRIs, regulatory calendar and the decisions asked of the board. |
 
 <details>
-<summary><b>All 19 open-source projects, by theme</b></summary>
+<summary><b>All 20 open-source projects, by theme</b></summary>
 
 Every project is original work, MIT licensed, with fictional data only, CI and a security policy.
 Full index: [cybersecurity-portfolio](https://github.com/bizidwassim-design/cybersecurity-portfolio).
@@ -128,7 +130,7 @@ Full index: [cybersecurity-portfolio](https://github.com/bizidwassim-design/cybe
 
 </details>
 
-> 🟢 live: [Control crosswalk](https://bizidwassim-design.github.io/grc-control-crosswalk/) · [Vendor risk (TPRM)](https://bizidwassim-design.github.io/vendor-risk-assessment-template/) · [UAE IA matrix](https://bizidwassim-design.github.io/uae-ia-compliance-matrix/) · [CISO dashboard](https://bizidwassim-design.github.io/ciso-executive-dashboard/) · [SOC maturity](https://bizidwassim-design.github.io/soc-maturity-assessment/)
+> 🟢 live: [ISO Compass](https://bizidwassim-design.github.io/wassim-bizid-portfolio/iso-ai-guide/) · [Control crosswalk](https://bizidwassim-design.github.io/grc-control-crosswalk/) · [Vendor risk (TPRM)](https://bizidwassim-design.github.io/vendor-risk-assessment-template/) · [UAE IA matrix](https://bizidwassim-design.github.io/uae-ia-compliance-matrix/) · [CISO dashboard](https://bizidwassim-design.github.io/ciso-executive-dashboard/) · [SOC maturity](https://bizidwassim-design.github.io/soc-maturity-assessment/)
 
 ---
 
